@@ -10,6 +10,7 @@
 -->
 #### 🌱 Currently working on
 -  `Unity.Mathematics.Extensions` and extension library for Unity.Mathematics
+-  `Unity.QOI` an Importer and Exporter for the "Quite Ok Image" Format
 -  `ShaderGraph-Extended` a vast node library for Unity's Shader Graph Tool `Puplic Release WIP`
 
 <a>
