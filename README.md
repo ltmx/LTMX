@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=LTMX&color=blueviolet)
+![](https://hit.yhype.me/github/profile?user_id=47640688)
+
 
 <!--
 - 🌱 currently working on `Unity.Mathematics.Extensions` and extension library for Unity.Mathematics
@@ -28,6 +30,7 @@
 <a href="https://ko-fi.com/I2I0IMQA9">
   <img allign="left" src="https://raw.githubusercontent.com/LTMX/Banners-And-Buttons/main/Support%20Me%20Kofi%20Banner%20Shader%20Graph%20Mastery.png" width="200px"/>
 <a/>
+
 
 
 
