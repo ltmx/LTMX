@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=LTMX&color=blueviolet)
+
 <!--
 - 🌱 currently working on `Unity.Mathematics.Extensions` and extension library for Unity.Mathematics
 - 🌱 I’m currently learning ...
@@ -8,6 +10,9 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 #### 🌱 Currently working on
 -  `Unity.Mathematics.Extensions` and extension library for Unity.Mathematics
 -  `Unity.QOI` an Importer and Exporter for the "Quite Ok Image" Format
