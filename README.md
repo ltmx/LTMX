@@ -16,9 +16,11 @@
 
 
 #### 🌱 Currently working on
--  `Unity.Mathematics.Extensions` and extension library for Unity.Mathematics
--  `Unity.QOI` an Importer and Exporter for the "Quite Ok Image" Format
+-  `Unity.mathx` and extension library for Unity.Mathematics
+-  `Unity.QOI` an Importer and Exporter for the "Quite Ok" Image Format
 -  `ShaderGraph-Extended` a vast node library for Unity's Shader Graph Tool `Puplic Release WIP`
+
+### Find Me There on [`My Linktree !`](https://linktr.ee/nicolasreinhard)
 
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=LTMX&count_private=true&show_icons=true&theme=midnight-purple&border_radius=14&hide_border=true" width="440px" />
