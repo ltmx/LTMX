@@ -1,4 +1,4 @@
-# Nicolas Reinhard @LTMX   ![](https://komarev.com/ghpvc/?username=LTMX&color=blueviolet)
+# Nicolas Reinhard @ltmx ![](https://komarev.com/ghpvc/?username=LTMX&color=blueviolet)
 ![](https://hit.yhype.me/github/profile?user_id=47640688)
 <!--
 - 🌱 currently working on `Unity.Mathematics.Extensions` and extension library for Unity.Mathematics
