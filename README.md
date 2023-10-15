@@ -11,6 +11,8 @@
 ## 🌱 Currently working on
 - <a href="https://github.com/LTMX/Unity.mathx"><img align="center" src="https://raw.githubusercontent.com/LTMX/Unity.mathx/master/.branding/LTMX_Unity_Mathematics_Mathx_Github_Logox256.png" height="32"/><a> An extension library for Unity.Mathematics <br>
 
+... A secret project 90% ready for a MVP realease
+
 - <a href="https://github.com/LTMX/Unity.QOI"><img align="center" src="https://raw.githubusercontent.com/LTMX/Unity.QOI/main/.branding/LTMX_Unity_QOI_Github_Logox206.png" height="32"/><a> An Importer and Exporter for the "Quite Ok" Image Format <br>
 -  `ShaderGraph-Extended` a vast node library for Unity's Shader Graph Tool `Puplic Release WIP`
 <br>
