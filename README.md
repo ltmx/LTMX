@@ -1,5 +1,5 @@
-# Nicolas Reinhard @ltmx ![](https://komarev.com/ghpvc/?username=LTMX&color=blueviolet)
-![](https://hit.yhype.me/github/profile?user_id=47640688)
+# Nicolas Reinhard @ltmx ![](https://komarev.com/ghpvc/?username=LTMX&color=blueviolet) ![](https://hit.yhype.me/github/profile?user_id=47640688)
+### *Science-Oriented Unity Developer, C#, Shaders, VFX, and Others.*
 <!--
 - 🌱 currently working on `Unity.Mathematics.Extensions` and extension library for Unity.Mathematics
 - 🌱 I’m currently learning ...
@@ -8,14 +8,20 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
 ## 🌱 Currently working on
 - <a href="https://github.com/LTMX/Unity.mathx"><img align="center" src="https://raw.githubusercontent.com/LTMX/Unity.mathx/master/.branding/LTMX_Unity_Mathematics_Mathx_Github_Logox256.png" height="32"/><a> An extension library for Unity.Mathematics <br>
 
-... A secret project 90% ready for a MVP realease
-
 - <a href="https://github.com/LTMX/Unity.QOI"><img align="center" src="https://raw.githubusercontent.com/LTMX/Unity.QOI/main/.branding/LTMX_Unity_QOI_Github_Logox206.png" height="32"/><a> An Importer and Exporter for the "Quite Ok" Image Format <br>
--  `ShaderGraph-Extended` a vast node library for Unity's Shader Graph Tool `Puplic Release WIP`
+- `ShaderGraph-Extensions` a vast node library for Unity's Shader Graph Tool `Puplic Release WIP`
+- <a href ="https://github.com/ltmx/Unity.UIToolkit.Extensions">`Unity UIToolkit Extensions`</a> A framework to make ui coding simpler using UIElements
+- <a href ="https://github.com/ltmx/Unity.PackageRegistryTools">`Unity Package Registry Tools`</a> An editor window to manage your scoped registries in Unity
+- <a href ="https://github.com/ltmx/Unity.CSharp.Extensions">`Unity Csharp Extensions`</a> A collection of extension methods for Unity
 <br>
+
+
 
 ## 🔗 Find Me On [`Linktree !`](https://linktr.ee/nicolasreinhard)
 
