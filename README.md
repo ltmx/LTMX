@@ -48,7 +48,7 @@
   <img allign="top" src="https://raw.githubusercontent.com/LTMX/Banners-And-Buttons/main/Support%20Me%20Kofi%20Banner%20Shader%20Graph%20Mastery.png" width="200px"/>
 <a/>
 
-![LTMX's Github Stats](https://github-readme-stats.vercel.app/api?username=LTMX&count_private=true&show_icons=true&theme=midnight-purple&bg_color=00000000&border_radius=14&hide_border=true")
+![LTMX's Github Stats](https://github-readme-stats.vercel.app/api?username=LTMX&count_private=true&show_icons=true&theme=midnight-purple&border_color=0D1117&bg_color=0D1117&border_radius=14")
 
 ### Stats
 
