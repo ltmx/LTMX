@@ -25,6 +25,16 @@
 
 
 
+**Unity Games**
+
+[![My Skills](https://skillicons.dev/icons?i=unity,rider,blender,cs,gcp,azure,aws,oculus)](https://skillicons.dev)
+
+<div id="badges">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg"  width = "64" height="64"  alt="Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rider-Dark.svg" width = "64" height="64" alt="Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_Oculus_horizontal.svg" height="64" alt="Badge"/>
+</div>
+
 ## 🔗 Find Me On [`Linktree !`](https://linktr.ee/nicolasreinhard)
 
 <a>
@@ -37,6 +47,32 @@
 <a href="https://ko-fi.com/I2I0IMQA9">
   <img allign="top" src="https://raw.githubusercontent.com/LTMX/Banners-And-Buttons/main/Support%20Me%20Kofi%20Banner%20Shader%20Graph%20Mastery.png" width="200px"/>
 <a/>
+
+![LTMX's Github Stats](https://github-readme-stats.vercel.app/api?username=LTMX&count_private=true&show_icons=true&theme=midnight-purple&bg_color=00000000&border_radius=14&hide_border=true")
+
+### Stats
+
+![Samuel Asher Rivello's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelAsherRivello&hide=issues,contribs&theme=dracula)
+
+
+### Contact
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/samuelasherrivello/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://SamuelAsherRivello.com">
+   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%2302A8EF" alt="Twitter Badge"/>
+  </a>
+    <a href="https://www.youtube.com/@SamuelAsherRivello">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/srivello">
+   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<BR>
 
 
 
