@@ -25,23 +25,30 @@
 
 
 
-**Unity Games**
 
-[![My Skills](https://skillicons.dev/icons?i=unity,rider,blender,cs,gcp,azure,aws,oculus)](https://skillicons.dev)
+**Tech Stack**
 
 <div id="badges">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg"  width = "64" height="64"  alt="Badge"/>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rider-Dark.svg" width = "64" height="64" alt="Badge"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_Oculus_horizontal.svg" height="64" alt="Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width = "64" height="64" alt="Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg" width = "64" height="64" alt="Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width = "64" height="64" alt="Badge"/>
+    <img src="https://github.com/user-attachments/assets/f53bcf41-786b-4507-b054-e4ee462a6a43" width = "64" height="64" alt="Oculus"/>
+    <img src="https://github.com/user-attachments/assets/cf3d54f9-1195-4784-8440-f4b7225fc424" width = "64" height="64" alt="OpenAIAPI"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" width = "64" height="64" alt="Badge"/>
+
 </div>
 
-## 🔗 Find Me On [`Linktree !`](https://linktr.ee/nicolasreinhard)
+## 🔗 Find Me On [Linktree](https://linktr.ee/nicolasreinhard)
+
+### Stats
 
 <a>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=LTMX&count_private=true&show_icons=true&theme=midnight-purple&border_radius=14&hide_border=true" width="440px" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=LTMX&count_private=true&show_icons=true&theme=midnight-purple&border_color=253041&bg_color=121821&border_radius=14" width="440px" />
 <a/>
 <a>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTMX&layout=compact&theme=midnight-purple&border_radius=14&hide_border=true" width="332px" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTMX&layout=compact&theme=midnight-purple&border_color=253041&bg_color=121821&border_radius=14" width="332px" />
 <a/>
 
 <a href="https://ko-fi.com/I2I0IMQA9">
@@ -50,32 +57,25 @@
 
 ![LTMX's Github Stats](https://github-readme-stats.vercel.app/api?username=LTMX&count_private=true&show_icons=true&theme=midnight-purple&border_color=0D1117&bg_color=0D1117&border_radius=14")
 
-### Stats
 
-![Samuel Asher Rivello's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelAsherRivello&hide=issues,contribs&theme=dracula)
+
 
 
 ### Contact
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/samuelasherrivello/">
+  <a href="https://www.linkedin.com/in/nicolasreinhard/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<!--   </a>
   <a href="https://SamuelAsherRivello.com">
    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%2302A8EF" alt="Twitter Badge"/>
   </a>
     <a href="https://www.youtube.com/@SamuelAsherRivello">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/srivello">
-   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <BR>
-
-
-
 
 
 <!--
