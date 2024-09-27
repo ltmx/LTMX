@@ -1,3 +1,5 @@
+
+
 # Nicolas Reinhard @ltmx ![](https://komarev.com/ghpvc/?username=LTMX&color=blueviolet) ![](https://hit.yhype.me/github/profile?user_id=47640688)
 ### *Science-Oriented Unity Developer, C#, Shaders, VFX, and Others.*
 <!--
@@ -24,21 +26,20 @@
 <br>
 
 
-
-
 **Tech Stack**
 
 <div id="badges">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg"  width = "64" height="64"  alt="Badge"/>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rider-Dark.svg" width = "64" height="64" alt="Badge"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width = "64" height="64" alt="Badge"/>
+    <img src="https://github.com/user-attachments/assets/96951f06-b271-493c-8fff-e3883e8bcff5" width = "64" height="64" alt="Badge"/>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg" width = "64" height="64" alt="Badge"/>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width = "64" height="64" alt="Badge"/>
     <img src="https://github.com/user-attachments/assets/f53bcf41-786b-4507-b054-e4ee462a6a43" width = "64" height="64" alt="Oculus"/>
     <img src="https://github.com/user-attachments/assets/cf3d54f9-1195-4784-8440-f4b7225fc424" width = "64" height="64" alt="OpenAIAPI"/>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" width = "64" height="64" alt="Badge"/>
-
 </div>
+
+
 
 ## 🔗 Find Me On [Linktree](https://linktr.ee/nicolasreinhard)
 
@@ -55,12 +56,6 @@
   <img allign="top" src="https://raw.githubusercontent.com/LTMX/Banners-And-Buttons/main/Support%20Me%20Kofi%20Banner%20Shader%20Graph%20Mastery.png" width="200px"/>
 <a/>
 
-![LTMX's Github Stats](https://github-readme-stats.vercel.app/api?username=LTMX&count_private=true&show_icons=true&theme=midnight-purple&border_color=0D1117&bg_color=0D1117&border_radius=14")
-
-
-
-
-
 ### Contact
 
 <div id="badges">
@@ -76,6 +71,9 @@
 </div>
 
 <BR>
+
+
+<!-- https://github.com/DinitoThompson for inspiration--> 
 
 
 <!--
