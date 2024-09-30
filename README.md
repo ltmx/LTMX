@@ -1,5 +1,3 @@
-
-
 # Nicolas Reinhard @ltmx ![](https://komarev.com/ghpvc/?username=LTMX&color=blueviolet) ![](https://hit.yhype.me/github/profile?user_id=47640688)
 ### *Science-Oriented Unity Developer, C#, Shaders, VFX, and Others.*
 <!--
@@ -39,10 +37,6 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" width = "64" height="64" alt="Badge"/>
 </div>
 
-
-
-## 🔗 Find Me On [Linktree](https://linktr.ee/nicolasreinhard)
-
 ### Stats
 
 <a>
@@ -58,20 +52,9 @@
 
 ### Contact
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/nicolasreinhard/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<!--   </a>
-  <a href="https://SamuelAsherRivello.com">
-   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%2302A8EF" alt="Twitter Badge"/>
-  </a>
-    <a href="https://www.youtube.com/@SamuelAsherRivello">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-</div>
-
-<BR>
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasreinhard/)
+[![Linktree Badge](https://img.shields.io/badge/Linktree-2c9945?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/nicolasreinhard)
+[![Artstation Badge](https://img.shields.io/badge/Artstation-5e30a0?style=for-the-badge&logo=Artstation&logoColor=white)](https://ltmx.artstation.com/)
 
 <!-- https://github.com/DinitoThompson for inspiration--> 
 
