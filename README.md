@@ -1,13 +1,27 @@
-# Nicolas Reinhard @ltmx ![](https://komarev.com/ghpvc/?username=LTMX&color=blueviolet) ![](https://hit.yhype.me/github/profile?user_id=47640688)
+# Nicolas Reinhard
 ### *Science-Oriented Unity Developer, C#, Shaders, VFX, and Others.*
 <!--
 - 🌱 currently working on `Unity.Mathematics.Extensions` and extension library for Unity.Mathematics
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+**Tech Stack**
+
+<div id="badges">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg"  width = "64" height="64"  alt="Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rider-Dark.svg" width = "64" height="64" alt="Badge"/>
+    <img src="https://github.com/user-attachments/assets/96951f06-b271-493c-8fff-e3883e8bcff5" width = "64" height="64" alt="Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg" width = "64" height="64" alt="Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width = "64" height="64" alt="Badge"/>
+    <img src="https://github.com/user-attachments/assets/f53bcf41-786b-4507-b054-e4ee462a6a43" width = "64" height="64" alt="Oculus"/>
+    <img src="https://github.com/user-attachments/assets/cf3d54f9-1195-4784-8440-f4b7225fc424" width = "64" height="64" alt="OpenAIAPI"/>
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" width = "64" height="64" alt="Badge"/>
+</div>
 
 <br>
 
@@ -23,34 +37,16 @@
 - `ShaderGraph-Extensions` a vast node library for Unity's Shader Graph Tool `Puplic Release WIP`
 <br>
 
-
-**Tech Stack**
-
-<div id="badges">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg"  width = "64" height="64"  alt="Badge"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rider-Dark.svg" width = "64" height="64" alt="Badge"/>
-    <img src="https://github.com/user-attachments/assets/96951f06-b271-493c-8fff-e3883e8bcff5" width = "64" height="64" alt="Badge"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg" width = "64" height="64" alt="Badge"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" width = "64" height="64" alt="Badge"/>
-    <img src="https://github.com/user-attachments/assets/f53bcf41-786b-4507-b054-e4ee462a6a43" width = "64" height="64" alt="Oculus"/>
-    <img src="https://github.com/user-attachments/assets/cf3d54f9-1195-4784-8440-f4b7225fc424" width = "64" height="64" alt="OpenAIAPI"/>
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" width = "64" height="64" alt="Badge"/>
-</div>
-
-### Stats
-
+<span>
 <a>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=LTMX&count_private=true&show_icons=true&theme=midnight-purple&border_color=253041&bg_color=121821&border_radius=14" width="440px" />
 <a/>
 <a>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTMX&layout=compact&theme=midnight-purple&border_color=253041&bg_color=121821&border_radius=14" width="332px" />
 <a/>
+</span>
 
-<a href="https://ko-fi.com/I2I0IMQA9">
-  <img allign="top" src="https://raw.githubusercontent.com/LTMX/Banners-And-Buttons/main/Support%20Me%20Kofi%20Banner%20Shader%20Graph%20Mastery.png" width="200px"/>
-<a/>
-
-### Contact
+### 📫 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasreinhard/)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-2c9945?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/nicolasreinhard)
@@ -70,6 +66,16 @@
 
     <a><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCKQp3slLtSsRCWtQz67RjYQ?style=social"></a>
     
+-->
+
+<!-- ![](https://hit.yhype.me/github/profile?user_id=47640688) 
+
+![](https://komarev.com/ghpvc/?username=LTMX&color=blueviolet) 
+
+<a href="https://ko-fi.com/I2I0IMQA9">
+  <img allign="top" src="https://raw.githubusercontent.com/LTMX/Banners-And-Buttons/main/Support%20Me%20Kofi%20Banner%20Shader%20Graph%20Mastery.png" width="200px"/>
+<a/>
+
 -->
 
 
