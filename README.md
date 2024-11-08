@@ -1,5 +1,5 @@
 # Nicolas Reinhard
-### *Science-Oriented Unity Developer, C#, Shaders, VFX, and Others.*
+### *Developer, Technical Artist, Shaders, VFX, and Others.*
 <!--
 - 🌱 currently working on `Unity.Mathematics.Extensions` and extension library for Unity.Mathematics
 - 🌱 I’m currently learning ...
