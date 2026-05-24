@@ -49,7 +49,10 @@
 
 ### 📫 Contact
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-253041?style=for-the-badge&logo=astro&logoColor=white)](https://ltmx.github.io/portfolio/)
+<a href="https://ltmx.github.io/portfolio/">
+  <img src="./assets/ltmx-github-portfolio-banner.jpg" alt="Portfolio" />
+</a>
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasreinhard/)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-2c9945?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/nicolasreinhard)
 [![Artstation Badge](https://img.shields.io/badge/Artstation-5e30a0?style=for-the-badge&logo=Artstation&logoColor=white)](https://ltmx.artstation.com/)
