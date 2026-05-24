@@ -41,12 +41,8 @@
 <br>
 
 <span>
-<a>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=LTMX&count_private=true&show_icons=true&theme=midnight-purple&border_color=253041&bg_color=121821&border_radius=14" width="440px" />
-<a/>
-<a>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTMX&layout=compact&theme=midnight-purple&border_color=253041&bg_color=121821&border_radius=14" width="332px" />
-<a/>
+  <img align="top" src="./profile/stats.svg" width="440px" alt="GitHub stats" />
+  <img align="top" src="./profile/top-langs.svg" width="332px" alt="Top languages" />
 </span>
 
 ### 📫 Contact
