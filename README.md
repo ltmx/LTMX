@@ -26,7 +26,9 @@
 <br>
 
 ## Worked On
-<a href="https://github.com/oculus-samples/Unity-SpiritSling"><img src="https://raw.githubusercontent.com/oculus-samples/Unity-SpiritSling/refs/heads/main/Documentation/Images/SpiritSling_Marketing_SmallLandscape.png" height="164"/><a>
+<a href="https://github.com/oculus-samples/Unity-SpiritSling">
+  <img src="https://media.githubusercontent.com/media/oculus-samples/Unity-SpiritSling/main/Documentation/Images/SpiritSling_Marketing_SmallLandscape.png" height="164" alt="Spirit Sling" />
+</a>
 
 ## 🌱 Currently working on
 - <a href="https://github.com/LTMX/Unity.mathx"><img align="center" src="https://raw.githubusercontent.com/LTMX/Unity.mathx/master/.branding/LTMX_Unity_Mathematics_Mathx_Github_Logox256.png" height="32"/><a> An extension library for Unity.Mathematics <br>
