@@ -2,10 +2,8 @@ name: Update GitHub stats cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
+    - cron: "0 0 * * *" # Once daily at midnight UTC
+  workflow_dispatch: # Manual run only
 
 jobs:
   build:
