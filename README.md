@@ -1,16 +1,14 @@
 # Nicolas Reinhard
 ### *Developer, Technical Artist, Shaders, VFX, and Others.*
-<!--
-- 🌱 currently working on `Unity.Mathematics.Extensions` and extension library for Unity.Mathematics
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://ltmx.github.io/portfolio/">
+  <img src="./assets/ltmx-github-portfolio-banner.jpg" alt="Portfolio" />
+</a>
 
 <br>
+<br>
 
-**Tech Stack**
+## Tech Stack
 
 <div id="badges">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg"  width = "64" height="64"  alt="Badge"/>
@@ -25,7 +23,7 @@
 
 <br>
 
-## Worked On
+## Notable Works
 <a href="https://github.com/oculus-samples/Unity-SpiritSling">
   <img src="https://media.githubusercontent.com/media/oculus-samples/Unity-SpiritSling/main/Documentation/Images/SpiritSling_Marketing_SmallLandscape.png" height="164" alt="Spirit Sling" />
 </a>
@@ -49,39 +47,9 @@
 
 ### 📫 Contact
 
-<a href="https://ltmx.github.io/portfolio/">
-  <img src="./assets/ltmx-github-portfolio-banner.jpg" alt="Portfolio" />
-</a>
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasreinhard/)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-2c9945?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/nicolasreinhard)
 [![Artstation Badge](https://img.shields.io/badge/Artstation-5e30a0?style=for-the-badge&logo=Artstation&logoColor=white)](https://ltmx.artstation.com/)
-
-<!-- https://github.com/DinitoThompson for inspiration--> 
-
-
-<!--
-[![LTMX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LTMX)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTMX&layout=compact&theme=midnight-purple&border_radius=14&hide_border=true" width="332px" />
-</a>
-
-    <a><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/LTMX"></a>
-
-    <a><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCKQp3slLtSsRCWtQz67RjYQ?style=social"></a>
-    
--->
-
-<!-- ![](https://hit.yhype.me/github/profile?user_id=47640688) 
-
-![](https://komarev.com/ghpvc/?username=LTMX&color=blueviolet) 
-
-<a href="https://ko-fi.com/I2I0IMQA9">
-  <img allign="top" src="https://raw.githubusercontent.com/LTMX/Banners-And-Buttons/main/Support%20Me%20Kofi%20Banner%20Shader%20Graph%20Mastery.png" width="200px"/>
-<a/>
-
--->
 
 
 
