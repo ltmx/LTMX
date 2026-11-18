@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="194.08"
+          width="194.1"
           height="8"
           fill="#7355dd"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="194.08"
+          x="194.1"
           y="0"
-          width="20.89"
+          width="20.88"
           height="8"
           fill="#222c37"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="214.97000000000003"
+          x="214.98"
           y="0"
-          width="14.43"
+          width="14.42"
           height="8"
           fill="#f34b7d"
         />
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="229.40000000000003"
+          x="229.39999999999998"
           y="0"
-          width="18.43"
+          width="18.42"
           height="8"
           fill="#aace60"
         />
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="237.83000000000004"
+          x="237.81999999999996"
           y="0"
-          width="17.41"
+          width="17.4"
           height="8"
           fill="#555555"
         />
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.24000000000004"
+          x="245.21999999999997"
           y="0"
           width="14.77"
           height="8"
@@ -199,14 +199,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 77.63%
+        C# 77.64%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#222c37" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        ShaderLab 8.36%
+        ShaderLab 8.35%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
